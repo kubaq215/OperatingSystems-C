@@ -1,0 +1,5 @@
+aab as 2
+bbc dr 3
+ccd bd 4
+ddd ch 5
+abs sc 6 

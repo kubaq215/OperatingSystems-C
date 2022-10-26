@@ -1,0 +1,23 @@
+Zawartość
+
+Katalog zawiera 1 program oraz plik Readme.
+I. Program implementuje problem producenta i konsumenta
+   za pomocą potoków nazwanych.
+
+Uruchamianie
+
+Za kompilację programu odpowiada plik Makefile.
+Aby uzyskać pliki wykonywalne należy wpisać komendę "make all".
+Następnie trzeba uruchomić plik "p5.x" z jednym argumentem,
+którym jest pełna nazwa przykładowego pliku z danymi.
+
+Porównywanie
+
+Gdybyśmy chcieli porównać plik wejściowy z wyjściowym,
+należy wpisać komendę "make diff", która wykona takie 
+porównianie.
+
+Czyszczenie
+
+Aby uporządkować katalog po skończonej pracy można użyć
+komendy "make clean", która usunie nam wszystkie zbędne pliki.

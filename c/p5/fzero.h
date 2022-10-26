@@ -1,0 +1,1 @@
+int fzero(double a, double b, int metoda, double eps, double *x0);

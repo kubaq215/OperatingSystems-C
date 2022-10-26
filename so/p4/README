@@ -1,0 +1,11 @@
+Zawartość
+
+Katalog zawiera 1 program oraz plik Readme.
+I. Program implementuje problem producenta i konsumenta
+   za pomocą potoków nienazwanych.
+
+Uruchamianie 
+
+Program należy skompilować, wpisując "gcc -Wall -std=c99 -pedantic p4.c",
+oraz uruchomić z jednym argumentem, którym jest pełna nazwa 
+przykładowego pliku z danymi. 
